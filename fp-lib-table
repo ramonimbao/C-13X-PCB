@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name MX_Only)(type KiCad)(uri ${KBLIBDIR}/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KBLIBDIR}/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri ${KBLIBDIR}/Type-C.pretty)(options "")(descr ""))
+  (lib (name Ramon)(type KiCad)(uri ${KBLIBDIR}/Ramon.pretty)(options "")(descr ""))
+  (lib (name MX_HS)(type KiCad)(uri ${KBLIBDIR}/MX_Alps_Hybrid/MX_HS.pretty)(options "")(descr ""))
+)
