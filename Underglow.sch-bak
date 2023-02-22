@@ -15,17 +15,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L LED:WS2812B RGB1
-U 1 1 6235B204
-P 2250 1900
-F 0 "RGB1" H 2500 1700 50  0000 L CNN
-F 1 "WS2812B" H 2500 1600 50  0000 L CNN
-F 2 "random-keyboard-parts:WS2812B-2020" H 2300 1600 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2350 1525 50  0001 L TNN
-	1    2250 1900
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+5V #PWR015
 U 1 1 6235D003
 P 2250 1600
@@ -45,17 +34,6 @@ F 1 "GND" H 2255 2027 50  0000 C CNN
 F 2 "" H 2250 2200 50  0001 C CNN
 F 3 "" H 2250 2200 50  0001 C CNN
 	1    2250 2200
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B RGB2
-U 1 1 6235EA6D
-P 2950 1900
-F 0 "RGB2" H 3200 1700 50  0000 L CNN
-F 1 "WS2812B" H 3200 1600 50  0000 L CNN
-F 2 "random-keyboard-parts:WS2812B-2020" H 3000 1600 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3050 1525 50  0001 L TNN
-	1    2950 1900
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -81,17 +59,6 @@ F 3 "" H 2950 2200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B RGB3
-U 1 1 6235F3AC
-P 3650 1900
-F 0 "RGB3" H 3900 1700 50  0000 L CNN
-F 1 "WS2812B" H 3900 1600 50  0000 L CNN
-F 2 "random-keyboard-parts:WS2812B-2020" H 3700 1600 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3750 1525 50  0001 L TNN
-	1    3650 1900
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+5V #PWR017
 U 1 1 6235F3B2
 P 3650 1600
@@ -111,17 +78,6 @@ F 1 "GND" H 3655 2027 50  0000 C CNN
 F 2 "" H 3650 2200 50  0001 C CNN
 F 3 "" H 3650 2200 50  0001 C CNN
 	1    3650 2200
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B RGB4
-U 1 1 623603B1
-P 4350 1900
-F 0 "RGB4" H 4600 1700 50  0000 L CNN
-F 1 "WS2812B" H 4600 1600 50  0000 L CNN
-F 2 "random-keyboard-parts:WS2812B-2020" H 4400 1600 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4450 1525 50  0001 L TNN
-	1    4350 1900
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -147,17 +103,6 @@ F 3 "" H 4350 2200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B RGB5
-U 1 1 62361174
-P 5050 1900
-F 0 "RGB5" H 5300 1700 50  0000 L CNN
-F 1 "WS2812B" H 5300 1600 50  0000 L CNN
-F 2 "random-keyboard-parts:WS2812B-2020" H 5100 1600 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5150 1525 50  0001 L TNN
-	1    5050 1900
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+5V #PWR019
 U 1 1 6236117A
 P 5050 1600
@@ -177,17 +122,6 @@ F 1 "GND" H 5055 2027 50  0000 C CNN
 F 2 "" H 5050 2200 50  0001 C CNN
 F 3 "" H 5050 2200 50  0001 C CNN
 	1    5050 2200
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B RGB6
-U 1 1 62366AAA
-P 2250 3000
-F 0 "RGB6" H 2500 2800 50  0000 L CNN
-F 1 "WS2812B" H 2500 2700 50  0000 L CNN
-F 2 "random-keyboard-parts:WS2812B-2020" H 2300 2700 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2350 2625 50  0001 L TNN
-	1    2250 3000
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -213,17 +147,6 @@ F 3 "" H 2250 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B RGB7
-U 1 1 62366ABC
-P 2950 3000
-F 0 "RGB7" H 3200 2800 50  0000 L CNN
-F 1 "WS2812B" H 3200 2700 50  0000 L CNN
-F 2 "random-keyboard-parts:WS2812B-2020" H 3000 2700 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3050 2625 50  0001 L TNN
-	1    2950 3000
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+5V #PWR026
 U 1 1 62366AC2
 P 2950 2700
@@ -243,17 +166,6 @@ F 1 "GND" H 2955 3127 50  0000 C CNN
 F 2 "" H 2950 3300 50  0001 C CNN
 F 3 "" H 2950 3300 50  0001 C CNN
 	1    2950 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B RGB8
-U 1 1 62366ACE
-P 3650 3000
-F 0 "RGB8" H 3900 2800 50  0000 L CNN
-F 1 "WS2812B" H 3900 2700 50  0000 L CNN
-F 2 "random-keyboard-parts:WS2812B-2020" H 3700 2700 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3750 2625 50  0001 L TNN
-	1    3650 3000
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -279,17 +191,6 @@ F 3 "" H 3650 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:WS2812B RGB9
-U 1 1 62366AE0
-P 4350 3000
-F 0 "RGB9" H 4600 2800 50  0000 L CNN
-F 1 "WS2812B" H 4600 2700 50  0000 L CNN
-F 2 "random-keyboard-parts:WS2812B-2020" H 4400 2700 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4450 2625 50  0001 L TNN
-	1    4350 3000
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+5V #PWR028
 U 1 1 62366AE6
 P 4350 2700
@@ -309,17 +210,6 @@ F 1 "GND" H 4355 3127 50  0000 C CNN
 F 2 "" H 4350 3300 50  0001 C CNN
 F 3 "" H 4350 3300 50  0001 C CNN
 	1    4350 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:WS2812B RGB10
-U 1 1 62366AF2
-P 5050 3000
-F 0 "RGB10" H 5300 2800 50  0000 L CNN
-F 1 "WS2812B" H 5300 2700 50  0000 L CNN
-F 2 "random-keyboard-parts:WS2812B-2020" H 5100 2700 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5150 2625 50  0001 L TNN
-	1    5050 3000
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -375,4 +265,124 @@ Wire Wire Line
 Wire Wire Line
 	4650 3000 4750 3000
 NoConn ~ 5350 3000
+$Comp
+L random-keyboard-parts:WS2812B-2020 RGB1
+U 1 1 63F5DC33
+P 2250 1900
+F 0 "RGB1" H 2594 1946 50  0000 L CNN
+F 1 "WS2812B-2020" H 2594 1855 50  0000 L CNN
+F 2 "random-keyboard-parts:WS2812B-2020" H 2300 1600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2350 1525 50  0001 L TNN
+F 4 "C965555" H 2250 1900 50  0001 C CNN "LCSC"
+	1    2250 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L random-keyboard-parts:WS2812B-2020 RGB2
+U 1 1 63F5E4B7
+P 2950 1900
+F 0 "RGB2" H 3294 1946 50  0000 L CNN
+F 1 "WS2812B-2020" H 3294 1855 50  0000 L CNN
+F 2 "random-keyboard-parts:WS2812B-2020" H 3000 1600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3050 1525 50  0001 L TNN
+F 4 "C965555" H 2950 1900 50  0001 C CNN "LCSC"
+	1    2950 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L random-keyboard-parts:WS2812B-2020 RGB3
+U 1 1 63F5E975
+P 3650 1900
+F 0 "RGB3" H 3994 1946 50  0000 L CNN
+F 1 "WS2812B-2020" H 3994 1855 50  0000 L CNN
+F 2 "random-keyboard-parts:WS2812B-2020" H 3700 1600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3750 1525 50  0001 L TNN
+F 4 "C965555" H 3650 1900 50  0001 C CNN "LCSC"
+	1    3650 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L random-keyboard-parts:WS2812B-2020 RGB4
+U 1 1 63F5EE6B
+P 4350 1900
+F 0 "RGB4" H 4694 1946 50  0000 L CNN
+F 1 "WS2812B-2020" H 4694 1855 50  0000 L CNN
+F 2 "random-keyboard-parts:WS2812B-2020" H 4400 1600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4450 1525 50  0001 L TNN
+F 4 "C965555" H 4350 1900 50  0001 C CNN "LCSC"
+	1    4350 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L random-keyboard-parts:WS2812B-2020 RGB5
+U 1 1 63F5F28D
+P 5050 1900
+F 0 "RGB5" H 5394 1946 50  0000 L CNN
+F 1 "WS2812B-2020" H 5394 1855 50  0000 L CNN
+F 2 "random-keyboard-parts:WS2812B-2020" H 5100 1600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5150 1525 50  0001 L TNN
+F 4 "C965555" H 5050 1900 50  0001 C CNN "LCSC"
+	1    5050 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L random-keyboard-parts:WS2812B-2020 RGB6
+U 1 1 63F5F73D
+P 2250 3000
+F 0 "RGB6" H 2594 3046 50  0000 L CNN
+F 1 "WS2812B-2020" H 2594 2955 50  0000 L CNN
+F 2 "random-keyboard-parts:WS2812B-2020" H 2300 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2350 2625 50  0001 L TNN
+F 4 "C965555" H 2250 3000 50  0001 C CNN "LCSC"
+	1    2250 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L random-keyboard-parts:WS2812B-2020 RGB7
+U 1 1 63F5FF00
+P 2950 3000
+F 0 "RGB7" H 3294 3046 50  0000 L CNN
+F 1 "WS2812B-2020" H 3294 2955 50  0000 L CNN
+F 2 "random-keyboard-parts:WS2812B-2020" H 3000 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3050 2625 50  0001 L TNN
+F 4 "C965555" H 2950 3000 50  0001 C CNN "LCSC"
+	1    2950 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L random-keyboard-parts:WS2812B-2020 RGB8
+U 1 1 63F604FB
+P 3650 3000
+F 0 "RGB8" H 3994 3046 50  0000 L CNN
+F 1 "WS2812B-2020" H 3994 2955 50  0000 L CNN
+F 2 "random-keyboard-parts:WS2812B-2020" H 3700 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3750 2625 50  0001 L TNN
+F 4 "C965555" H 3650 3000 50  0001 C CNN "LCSC"
+	1    3650 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L random-keyboard-parts:WS2812B-2020 RGB9
+U 1 1 63F60B2E
+P 4350 3000
+F 0 "RGB9" H 4694 3046 50  0000 L CNN
+F 1 "WS2812B-2020" H 4694 2955 50  0000 L CNN
+F 2 "random-keyboard-parts:WS2812B-2020" H 4400 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4450 2625 50  0001 L TNN
+F 4 "C965555" H 4350 3000 50  0001 C CNN "LCSC"
+	1    4350 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L random-keyboard-parts:WS2812B-2020 RGB10
+U 1 1 63F60FE7
+P 5050 3000
+F 0 "RGB10" H 5394 3046 50  0000 L CNN
+F 1 "WS2812B-2020" H 5394 2955 50  0000 L CNN
+F 2 "random-keyboard-parts:WS2812B-2020" H 5100 2700 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5150 2625 50  0001 L TNN
+F 4 "C965555" H 5050 3000 50  0001 C CNN "LCSC"
+	1    5050 3000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

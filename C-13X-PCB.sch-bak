@@ -322,6 +322,7 @@ F 0 "D1" V 3788 2162 50  0000 R CNN
 F 1 "3.6V" V 3870 2045 50  0000 L CNN
 F 2 "Diode_SMD:D_SOD-123" V 3800 2000 50  0001 C CNN
 F 3 "~" V 3800 2000 50  0001 C CNN
+F 4 "C2891771" H 3800 2000 50  0001 C CNN "LCSC"
 	1    3800 2000
 	0    -1   1    0   
 $EndComp
@@ -333,6 +334,7 @@ F 0 "D2" V 3938 2162 50  0000 R CNN
 F 1 "3.6V" V 4020 2045 50  0000 L CNN
 F 2 "Diode_SMD:D_SOD-123" V 3950 2000 50  0001 C CNN
 F 3 "~" V 3950 2000 50  0001 C CNN
+F 4 "C2891771" H 3950 2000 50  0001 C CNN "LCSC"
 	1    3950 2000
 	0    1    1    0   
 $EndComp
@@ -344,6 +346,7 @@ F 0 "C3" H 1192 6346 50  0000 L CNN
 F 1 "100nF" H 1192 6255 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 1100 6300 50  0001 C CNN
 F 3 "~" H 1100 6300 50  0001 C CNN
+F 4 "C14663" H 1100 6300 50  0001 C CNN "LCSC"
 	1    1100 6300
 	1    0    0    -1  
 $EndComp
@@ -355,6 +358,7 @@ F 0 "C4" H 1642 6346 50  0000 L CNN
 F 1 "100nF" H 1642 6255 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 1550 6300 50  0001 C CNN
 F 3 "~" H 1550 6300 50  0001 C CNN
+F 4 "C14663" H 1550 6300 50  0001 C CNN "LCSC"
 	1    1550 6300
 	1    0    0    -1  
 $EndComp
@@ -366,6 +370,7 @@ F 0 "C5" H 2092 6346 50  0000 L CNN
 F 1 "10uF" H 2092 6255 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 2000 6300 50  0001 C CNN
 F 3 "~" H 2000 6300 50  0001 C CNN
+F 4 "C15850" H 2000 6300 50  0001 C CNN "LCSC"
 	1    2000 6300
 	1    0    0    -1  
 $EndComp
@@ -377,6 +382,7 @@ F 0 "C1" V 7529 2250 50  0000 C CNN
 F 1 "22pF" V 7438 2250 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 7300 2250 50  0001 C CNN
 F 3 "~" H 7300 2250 50  0001 C CNN
+F 4 "C1653" H 7300 2250 50  0001 C CNN "LCSC"
 	1    7300 2250
 	0    -1   -1   0   
 $EndComp
@@ -388,6 +394,7 @@ F 0 "C2" V 7050 2550 50  0000 C CNN
 F 1 "22pF" V 7150 2550 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 7300 2550 50  0001 C CNN
 F 3 "~" H 7300 2550 50  0001 C CNN
+F 4 "C1653" H 7300 2550 50  0001 C CNN "LCSC"
 	1    7300 2550
 	0    -1   -1   0   
 $EndComp
@@ -399,6 +406,7 @@ F 0 "SW1" H 7950 1935 50  0000 C CNN
 F 1 "SW_Push" H 7950 1844 50  0000 C CNN
 F 2 "Button_Switch_SMD:SW_SPST_TL3342" H 7950 1850 50  0001 C CNN
 F 3 "~" H 7950 1850 50  0001 C CNN
+F 4 "C318884" H 7950 1650 50  0001 C CNN "LCSC"
 	1    7950 1650
 	1    0    0    -1  
 $EndComp
@@ -410,6 +418,7 @@ F 0 "SW2" H 10500 5485 50  0000 C CNN
 F 1 "SW_Push" H 10500 5394 50  0000 C CNN
 F 2 "Button_Switch_SMD:SW_SPST_TL3342" H 10500 5400 50  0001 C CNN
 F 3 "~" H 10500 5400 50  0001 C CNN
+F 4 "C318884" H 10500 5200 50  0001 C CNN "LCSC"
 	1    10500 5200
 	-1   0    0    -1  
 $EndComp
@@ -471,6 +480,7 @@ F 0 "F1" V 1803 1450 50  0000 C CNN
 F 1 "500mA" V 1894 1450 50  0000 C CNN
 F 2 "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 1930 1450 50  0001 C CNN
 F 3 "~" H 2000 1450 50  0001 C CNN
+F 4 "C69688" H 2000 1450 50  0001 C CNN "LCSC"
 	1    2000 1450
 	0    1    1    0   
 $EndComp
@@ -503,6 +513,7 @@ F 0 "J1" H 1543 1867 50  0000 C CNN
 F 1 "ai03_Daughterboard_Connector" H 1700 1200 50  0000 C CNN
 F 2 "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" H 1600 1150 50  0001 C CNN
 F 3 "~" H 1500 1550 50  0001 C CNN
+F 4 "C160404" H 1500 1550 50  0001 C CNN "LCSC"
 	1    1500 1550
 	-1   0    0    -1  
 $EndComp
@@ -518,6 +529,7 @@ F 0 "U1" H 9150 1850 50  0000 C CNN
 F 1 "ATmega32A-AU" H 9350 1750 50  0000 C CNN
 F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 8900 3800 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8155-8-bit-microcontroller-avr-atmega32a_datasheet.pdf" H 8900 3800 50  0001 C CNN
+F 4 "C5659" H 8900 3800 50  0001 C CNN "LCSC"
 	1    8900 3800
 	1    0    0    -1  
 $EndComp
@@ -629,6 +641,7 @@ F 0 "U2" H 2600 2150 50  0000 C CNN
 F 1 "SRV05-4" H 2650 2050 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6" H 3650 1150 50  0001 C CNN
 F 3 "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF" H 2950 1600 50  0001 C CNN
+F 4 "C85364" H 2950 1600 50  0001 C CNN "LCSC"
 	1    2950 1600
 	0    1    -1   0   
 $EndComp
@@ -708,4 +721,133 @@ Text GLabel 6300 4900 0    50   Input ~ 0
 RGB
 Wire Wire Line
 	6300 4900 6450 4900
+Text Label 9600 3900 0    50   ~ 0
+C0
+Wire Wire Line
+	9600 3900 9500 3900
+Text Label 6700 3600 2    50   ~ 0
+C0
+Wire Wire Line
+	6700 3600 6800 3600
+Text Label 9600 4000 0    50   ~ 0
+C1
+Wire Wire Line
+	9600 4000 9500 4000
+Text Label 7550 4100 0    50   ~ 0
+C1
+Wire Wire Line
+	7550 4100 7450 4100
+Text Label 9600 2100 0    50   ~ 0
+A0
+Wire Wire Line
+	9600 2100 9500 2100
+Text Label 7550 3600 0    50   ~ 0
+A0
+Wire Wire Line
+	7550 3600 7450 3600
+Text Label 9600 2200 0    50   ~ 0
+A1
+Wire Wire Line
+	9600 2200 9500 2200
+Text Label 7550 3700 0    50   ~ 0
+A1
+Wire Wire Line
+	7550 3700 7450 3700
+Text Label 9600 2300 0    50   ~ 0
+A2
+Wire Wire Line
+	9600 2300 9500 2300
+Text Label 7550 3800 0    50   ~ 0
+A2
+Wire Wire Line
+	7550 3800 7450 3800
+Text Label 9600 2400 0    50   ~ 0
+A3
+Wire Wire Line
+	9600 2400 9500 2400
+Text Label 7550 3900 0    50   ~ 0
+A3
+Wire Wire Line
+	7550 3900 7450 3900
+Text Label 9600 2500 0    50   ~ 0
+A4
+Wire Wire Line
+	9600 2500 9500 2500
+Text Label 7550 4000 0    50   ~ 0
+A4
+Wire Wire Line
+	7550 4000 7450 4000
+Text Label 9600 4100 0    50   ~ 0
+C2
+Wire Wire Line
+	9600 4100 9500 4100
+Text Label 7550 4500 0    50   ~ 0
+C2
+Wire Wire Line
+	7550 4500 7450 4500
+Text Label 9600 4200 0    50   ~ 0
+C3
+Wire Wire Line
+	9600 4200 9500 4200
+Text Label 7550 4400 0    50   ~ 0
+C3
+Wire Wire Line
+	7550 4400 7450 4400
+Text Label 9600 4300 0    50   ~ 0
+C4
+Wire Wire Line
+	9600 4300 9500 4300
+Text Label 7550 4300 0    50   ~ 0
+C4
+Wire Wire Line
+	7550 4300 7450 4300
+Wire Wire Line
+	9600 4400 9500 4400
+Wire Wire Line
+	9600 4500 9500 4500
+Text Label 7550 4200 0    50   ~ 0
+C5
+Wire Wire Line
+	7550 4200 7450 4200
+Text Label 9600 4400 0    50   ~ 0
+C5
+Text Label 9600 4500 0    50   ~ 0
+C6
+Text Label 6700 3700 2    50   ~ 0
+C6
+Wire Wire Line
+	6700 3700 6800 3700
+Text Label 9600 4600 0    50   ~ 0
+C7
+Wire Wire Line
+	9600 4600 9500 4600
+Text Label 6700 3800 2    50   ~ 0
+C7
+Wire Wire Line
+	6700 3800 6800 3800
+Text Label 9600 2800 0    50   ~ 0
+A7
+Wire Wire Line
+	9600 2800 9500 2800
+Text Label 6700 3900 2    50   ~ 0
+A7
+Wire Wire Line
+	6700 3900 6800 3900
+Text Label 9600 3400 0    50   ~ 0
+B4
+Text GLabel 9750 3400 2    50   Input ~ 0
+RGB
+Wire Wire Line
+	9500 3400 9750 3400
+$Comp
+L Mechanical:MountingHole G1
+U 1 1 625FBA6F
+P 600 7650
+F 0 "G1" H 700 7696 50  0000 L CNN
+F 1 "Signature" H 700 7605 50  0000 L CNN
+F 2 "Ramon:Signature" H 600 7650 50  0001 C CNN
+F 3 "~" H 600 7650 50  0001 C CNN
+	1    600  7650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

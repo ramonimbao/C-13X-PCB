@@ -1,4 +1,4 @@
-19187682601601972
+19207785709755218
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -57435,523 +57435,481 @@ MXOnly-ISO-Hotswap-Rotated-NoLED-ReversedStabilizers
 4
 2
 MX_Only
-MXOnly-1.5U
+MXOnly-1.00u
 
 
 0
 4
 4
 MX_Only
-MXOnly-1.5U-FLIPPED
+MXOnly-1.00u-FLIPPED
 
 
 0
 4
 4
 MX_Only
-MXOnly-1.5U-NoLED
-
-
-0
-2
-2
-MX_Only
-MXOnly-1.5U-Vertical
-
-
-0
-4
-4
-MX_Only
-MXOnly-1.5U-Vertical-NoLED
+MXOnly-1.00u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-1.25U
+MXOnly-1.25u
 
 
 0
 4
 4
 MX_Only
-MXOnly-1.25U-FLIPPED
+MXOnly-1.25u-FLIPPED
 
 
 0
 4
 4
 MX_Only
-MXOnly-1.25U-NoLED
-
-
-0
-2
-2
-MX_Only
-MXOnly-1.75U
-
-
-0
-4
-4
-MX_Only
-MXOnly-1.75U-FLIPPED
-
-
-0
-4
-4
-MX_Only
-MXOnly-1.75U-NoLED
+MXOnly-1.25u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-1U
+MXOnly-1.50u
 
 
 0
 4
 4
 MX_Only
-MXOnly-1U-FLIPPED
+MXOnly-1.50u-FLIPPED
 
 
 0
 4
 4
 MX_Only
-MXOnly-1U-NoLED
+MXOnly-1.50u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-2.25U
+MXOnly-1.50u-Vertical
 
 
 0
 4
 4
 MX_Only
-MXOnly-2.25U-FLIPPED
-
-
-0
-4
-4
-MX_Only
-MXOnly-2.25U-FLIPPED-ReversedStabilizers
-
-
-0
-4
-4
-MX_Only
-MXOnly-2.25U-NoLED
+MXOnly-1.50u-Vertical-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-2.25U-ReversedStabilizers
+MXOnly-1.75u
 
 
 0
 4
 4
 MX_Only
-MXOnly-2.25U-ReversedStabilizers-NoLED
+MXOnly-1.75u-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-1.75u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-2.75U
+MXOnly-2.00u
 
 
 0
 4
 4
 MX_Only
-MXOnly-2.75U-FLIPPED
+MXOnly-2.00u-FLIPPED
 
 
 0
 4
 4
 MX_Only
-MXOnly-2.75U-FLIPPED-ReversedStabilizers
+MXOnly-2.00u-FLIPPED-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-2.75U-NoLED
+MXOnly-2.00u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-2.75U-ReversedStabilizers
+MXOnly-2.00u-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-2.75U-ReversedStabilizers-NoLED
+MXOnly-2.00u-ReversedStabilizers-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-2U
-
-
-0
-4
-4
-MX_Only
-MXOnly-2U-FLIPPED
-
-
-0
-4
-4
-MX_Only
-MXOnly-2U-FLIPPED-ReversedStabilizers
-
-
-0
-4
-4
-MX_Only
-MXOnly-2U-NoLED
+MXOnly-2.00u-Vertical-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-2U-ReversedStabilizers
-
-
-0
-4
-4
-MX_Only
-MXOnly-2U-ReversedStabilizers-NoLED
+MXOnly-2.00u-Vertical-ReversedStabilizers-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-2U-Vertical-NoLED
+MXOnly-2.25u
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.25u-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.25u-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.25u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-2U-Vertical-ReversedStabilizers-NoLED
+MXOnly-2.25u-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.25u-ReversedStabilizers-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-3U
+MXOnly-2.75u
 
 
 0
 4
 4
 MX_Only
-MXOnly-3U-FLIPPED
+MXOnly-2.75u-FLIPPED
 
 
 0
 4
 4
 MX_Only
-MXOnly-3U-FLIPPED-ReversedStabilizers
+MXOnly-2.75u-FLIPPED-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-3U-NoLED
+MXOnly-2.75u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-3U-ReversedStabilizers
+MXOnly-2.75u-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-3U-ReversedStabilizers-NoLED
+MXOnly-2.75u-ReversedStabilizers-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-4.5U
+MXOnly-3.00u
 
 
 0
 4
 4
 MX_Only
-MXOnly-4.5U-FLIPPED
+MXOnly-3.00u-FLIPPED
 
 
 0
 4
 4
 MX_Only
-MXOnly-4.5U-FLIPPED-ReversedStabilizers
+MXOnly-3.00u-FLIPPED-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-4.5U-NoLED
+MXOnly-3.00u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-4.5U-ReversedStabilizers
+MXOnly-3.00u-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-4.5U-ReversedStabilizers-NoLED
+MXOnly-3.00u-ReversedStabilizers-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-6.25U
+MXOnly-4.50u
 
 
 0
 4
 4
 MX_Only
-MXOnly-6.25U-FLIPPED
+MXOnly-4.50u-FLIPPED
 
 
 0
 4
 4
 MX_Only
-MXOnly-6.25U-FLIPPED-ReversedStabilizers
+MXOnly-4.50u-FLIPPED-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-6.25U-NoLED
+MXOnly-4.50u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-6.25U-ReversedStabilizers
+MXOnly-4.50u-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-6.25U-ReversedStabilizers-NoLED
+MXOnly-4.50u-ReversedStabilizers-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-6U
+MXOnly-6.00u
 
 
 0
 4
 4
 MX_Only
-MXOnly-6U-Centered
+MXOnly-6.00u-Centered
 
 
 0
 4
 4
 MX_Only
-MXOnly-6U-Centered-FLIPPED
+MXOnly-6.00u-Centered-FLIPPED
 
 
 0
 4
 4
 MX_Only
-MXOnly-6U-Centered-FLIPPED-ReversedStabilizers
+MXOnly-6.00u-Centered-FLIPPED-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-6U-Centered-NoLED
+MXOnly-6.00u-Centered-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-6U-Centered-ReversedStabilizers
+MXOnly-6.00u-Centered-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-6U-Centered-ReversedStabilizers-NoLED
+MXOnly-6.00u-Centered-ReversedStabilizers-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-6U-NoLED
+MXOnly-6.00u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-6U-ReversedStabilizers
+MXOnly-6.00u-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-6U-ReversedStabilizers-NoLED
+MXOnly-6.00u-ReversedStabilizers-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-7U
+MXOnly-6.25u
 
 
 0
 4
 4
 MX_Only
-MXOnly-7U-FLIPPED
+MXOnly-6.25u-FLIPPED
 
 
 0
 4
 4
 MX_Only
-MXOnly-7U-FLIPPED-ReversedStabilizers
+MXOnly-6.25u-FLIPPED-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-7U-NoLED
+MXOnly-6.25u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-7U-ReversedStabilizers
+MXOnly-6.25u-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-7U-ReversedStabilizers-NoLED
+MXOnly-6.25u-ReversedStabilizers-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-10U
+MXOnly-7.00u
 
 
 0
 4
 4
 MX_Only
-MXOnly-10U-FLIPPED
+MXOnly-7.00u-FLIPPED
 
 
 0
 4
 4
 MX_Only
-MXOnly-10U-FLIPPED-ReversedStabilizers
+MXOnly-7.00u-FLIPPED-ReversedStabilizers
 
 
 0
 4
 4
 MX_Only
-MXOnly-10U-NoLED
+MXOnly-7.00u-NoLED
 
 
 0
 2
 2
 MX_Only
-MXOnly-10U-NoLED-ReversedStabilizers
+MXOnly-7.00u-ReversedStabilizers
 
 
 0
-2
-2
+4
+4
 MX_Only
-MXOnly-10U-ReversedStabilizers
+MXOnly-7.00u-ReversedStabilizers-NoLED
 
 
 0
-4
-4
+2
+2
 MX_Only
 MXOnly-ISO
 
@@ -85155,6 +85113,13 @@ varistor SIOV
 2
 2
 random-keyboard-parts
+CenterScrewSlot
+
+
+0
+1
+1
+random-keyboard-parts
 D_SOD-123-Pretty
 SOD-123
 SOD-123
@@ -85337,6 +85302,13 @@ SOT143B
 4
 4
 random-keyboard-parts
+SideScrewSlot
+
+
+0
+1
+1
+random-keyboard-parts
 USB-A-Generic
 
 
@@ -85357,13 +85329,6 @@ WS2812B-2020
 0
 4
 4
-random-keyboard-parts
-breakaway-mousebites
-
-
-0
-0
-0
 random-keyboard-parts
 breakaway-mousebites-4
 
